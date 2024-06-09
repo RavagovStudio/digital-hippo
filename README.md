@@ -1,40 +1,21 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# DigitalHippo — современный полнофункциональный рынок электронной коммерции для цифровых продуктов
 
-Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
+Создан с использованием маршрутизатора приложений Next.js 14, tRPC, TypeScript, Payload и Tailwind.
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+![Изображение проекта](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
 
-## Features
+##Функции
 
-- 🛠️ Complete marketplace built from scratch in Next.js 14
-- 💻 Beautiful landing page & product pages included
-- 🎨 Custom artwork included
-- 💳 Full admin dashboard
-- 🛍️ Users can purchase and sell their own products
-- 🛒 Locally persisted shopping cart
-- 🔑 Authentication using Payload
-- 🖥️ Learn how to self-host Next.js
-- 🌟 Clean, modern UI using shadcn-ui
-- ✉️ Beautiful emails for signing up and after purchase
-- ✅ Admins can verify products to ensure high quality
-- ⌨️ 100% written in TypeScript
-- 🎁 ...much more
-
-## Getting started
-
-To get started with this project, run
-
-```bash
-  git clone https://github.com/joschan21/digitalhippo.git
-```
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
-
-## Acknowledgements
-
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+- 🛠️ Полная торговая площадка, созданная с нуля в Next.js 14.
+- 💻 Включены красивая целевая страница и страницы продуктов.
+- 🎨В комплект входит индивидуальное оформление
+- 💳 Полная панель администратора
+- 🛍️ Пользователи могут покупать и продавать свои собственные продукты.
+- 🛒 Локальная корзина покупок
+- 🔑 Аутентификация с использованием полезной нагрузки
+- 🖥️ Узнайте, как самостоятельно разместить Next.js.
+- 🌟 Чистый, современный пользовательский интерфейс с использованием shadcn-ui.
+- ✉️ Красивые письма для регистрации и после покупки.
+- ✅ Администраторы могут проверять товары, чтобы гарантировать высокое качество.
+- ⌨️ 100% написано на TypeScript.
+- 🎁 ...многое другое
